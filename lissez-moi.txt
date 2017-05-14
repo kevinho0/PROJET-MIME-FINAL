@@ -1,15 +1,17 @@
 ***************************************
 		UTILISATION
 **************************************
-1-Connexion à l'interface administrateur :
+1- Executer le fichier bd/l3mime.sql afin de créer la base de donnée
+
+2-Connexion à l'interface administrateur :
    -Login(email) : admin@gest-univ.fr
    -Mot de passe : admin
 inforation de connexion par defaut par defeaut
 Vous pouvez créer aussi d'autre utilisateur une fois connecter
 
-2 - Une fois connecter vous devez ajouter des filières 
+3 - Une fois connecter vous devez ajouter des filières 
 
-3 - Ajouteur des enseignants
+4 - Ajouteur des enseignants
 
-4 - Faire des affectations des enseignants
+5 - Faire des affectations des enseignants
 
