@@ -11,7 +11,7 @@ Vous pouvez créer aussi d'autre utilisateur une fois connecter
 
 3 - Une fois connecter vous devez ajouter des filières 
 
-4 - Ajouteur des enseignants
+4 - Ajouter des enseignants
 
 5 - Faire des affectations des enseignants
 
